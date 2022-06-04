@@ -1,4 +1,38 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Mihai Fecioru</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+
+        Dear Madam/Sir
+\n\n My name is Mihai-Daniel Fecioru, and I bring an experience of more than 20 years in technical leadership, people
+management, project management and development of high-complexity software applications especially in domains
+like distributed systems and bigdata applications (both batch and real-time) on top of public could infrastructure
+(both AWS and Azure). During this time, I have acquired valuable expertise in the digital marketing domain, more
+specifically in Data Management Platform (DMP) and Customer Data Platform (CDP) systems in my roles as head
+of engineering for Adobe’s DMP (Adobe Audience Manager - http://www.adobe.com/solutions/mediaoptimization/audience-management.html) and then head of engineering for the User Profile Service which is a core
+service in Adobe’s Real-Time CDP (Adobe Experience Platform -
+https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=en).
+\n\n I am highly motivated and passioned in constantly improving my skills in the area of building distributed systems
+that offer best in class customer experience: reliability, performance and outstanding functional capabilities within
+competitive costs. Throughout the years I have demonstrated these skills both in real-time systems (scaled the Adobe
+DMP/CDP EDGE systems to support tens of billions of requests per day on multiple regions across the entire world
+within 99.9 availability) and batch systems (scaled Adobe DMP/CDP systems to process more than 1 Petabytes of
+data per day). I achieved these results by building and empowering a high-performing team (100 engineers across 3
+continents) and by defining efficient processes to enable distributed software development, CI/CD best practices and
+the on-call support needed to manage 24/7 services.
+\n\n Besides the people management, project management and stakeholder / executive management skills, I am also
+constantly investing in technical skills that allow me to better understand the realities / challenges of the systems I
+own. My expertise is focused on designing / architecting / managing highly reliable distributed systems (both realtime and batch) on top of public cloud infrastructure (AWS and Azure) using technologies like: Java/Scala, Spark,
+Akka, Spring, Kubernetes, Databricks, Aerospike, Cassandra, CosmosDB, Hadoop/HBase, kafka, Prometheus,
+Grafana, Splunk etc.
+\n\n I am living in Colorado Springs (Colorado, USA) and I am interested either a local/on-site role or a remote one (for
+the last 5 years I have managed remote teams on 3 continents).
+\n\n I consider that a position in your Company will give me the opportunity to use my qualifications and skills in
+development and technical coordination of software projects and, at the same time, improve these skills through
+exposure to new type of projects/challenges/environments.
+\n\n For recommendations you can check my LinkedIn page: https://www.linkedin.com/in/mihai-fecioru-1008a4/
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="Done">DONE</string>
 </resources>
